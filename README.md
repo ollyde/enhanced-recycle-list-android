@@ -1,5 +1,3 @@
- [ ![Download](null/packages/acidhue/Ollys-enhanced-list-view-for-Android/EnhancedListViewAndroid/images/download.svg?version=1.00) ](https://bintray.com/acidhue/Ollys-enhanced-list-view-for-Android/EnhancedListViewAndroid/1.00/link)
-
 # Olly's Enhanced List view for Android
 
 ## Why did I create this?
