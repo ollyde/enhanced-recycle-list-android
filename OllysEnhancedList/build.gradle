@@ -1,6 +1,10 @@
 apply plugin: 'com.android.library'
 
-
+ext {
+    PUBLISH_GROUP_ID = 'com.polydelic.oliverdixon'
+    PUBLISH_ARTIFACT_ID = 'ollsenhancedlist'
+    PUBLISH_VERSION = '1.00'
+}
 
 android {
     compileSdkVersion 25
@@ -31,9 +35,10 @@ buildscript {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:25.2.0'
 
-    // Butter knife
-    compile 'com.jakewharton:butterknife:8.4.0'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.4.0'
+    // Android libraries.
+    compile 'com.android.support:appcompat-v7:25.2.0'
+    compile 'com.android.support:recyclerview-v7:25.2.0'
 }
+
+apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'

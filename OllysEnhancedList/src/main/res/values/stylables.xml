@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EnhancedList">
+        <attr name="noItems" format="string" />
+        <attr name="noMoreItems" format="string" />
+        <attr name="gettingMoreItemsText" format="string" />
+        <attr name="moreItemsToGetText" format="string" />
+        <attr name="listDisabledText" format="string" />
+        <attr name="failedToGetItemsListText" format="string" />
+    </declare-styleable>
+</resources>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/OllysEnhancedList/OllysEnhancedList.iml" filepath="$PROJECT_DIR$/OllysEnhancedList/OllysEnhancedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestLibraryOllysList.iml" filepath="$PROJECT_DIR$/TestLibraryOllysList.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ollys-enhanced-list-android.iml" filepath="$PROJECT_DIR$/ollys-enhanced-list-android.iml" />
     </modules>
   </component>
 </project>
