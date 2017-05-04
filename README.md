@@ -16,7 +16,7 @@ optional pagination out of the box that is super easy to implement too.
 - And more
 
 ## Easy Setup
-You can find an example in the app directory, look at the class MainActivity.java and R.layout.activity_main  
+
 Include the gradle line as a dependency.
 
 ```
