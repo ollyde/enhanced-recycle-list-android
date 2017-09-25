@@ -1,4 +1,4 @@
-# Olly's Enhanced List view for Android
+Enhanced RecycleView for Android
 
 ## Why did I create this?
 
